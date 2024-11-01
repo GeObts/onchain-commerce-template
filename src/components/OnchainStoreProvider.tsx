@@ -19,7 +19,7 @@ const products: Product[] = [
     id: 'fb56e47f-d7da-4b74-a0b3-d0e197d47f80', 
     name: `'BASED' SUPERFOOD`, 
     price: 29.99, 
-    image: 'https://imgur.com/a/D3itAJN'
+    image: 'https://i.imgur.com/w8pGYS2.jpeg'
   },
   {
     id: 'product2',
