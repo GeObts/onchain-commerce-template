@@ -19,7 +19,7 @@ const products: Product[] = [
     id: 'fb56e47f-d7da-4b74-a0b3-d0e197d47f80', 
     name: `'BASED' SUPERFOOD`, 
     price: 29.99, 
-    image: 'https://nouns4health.xyz/cdn/shop/files/1717638510727-generated-label-image-0_ba269226-fa92-4892-b9f2-0b93d76bd382.jpg?v=1718031828&width=360'
+    image: 'https://imgur.com/a/D3itAJN'
   },
   {
     id: 'product2',
