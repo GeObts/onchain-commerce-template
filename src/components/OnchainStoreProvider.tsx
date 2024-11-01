@@ -17,8 +17,22 @@ type OnchainStoreProviderReact = {
 };
 
 const products: Product[] = [
-  { id: 'product1', name: `'BUILDER' JACKET`, price: 0.04, image: jacketImage },
+
+
+  { 
+    id: 'fb56e47f-d7da-4b74-a0b3-d0e197d47f80', 
+    name: `'BASED' SUPERFOOD`, 
+    price: 29.99, 
+    image: 'https://res.cloudinary.com/commerce/image/upload/v1719508080/pcgpypu8zmp6wirxsybz.jpg'  // Ensure this ends with a quote, not a semicolon
+  },
   {
+    id: 'product2',
+    name: `'DND, I'M BUILDING' AIRPODS`,
+    price: 0.01,
+    image: airpodsImage  // Make sure airpodsImage is properly imported
+  }
+];
+
     id: 'product2',
     name: `'DND, I'M BUILDING' AIRPODS`,
     price: 0.01,
